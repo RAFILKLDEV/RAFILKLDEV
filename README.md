@@ -2,7 +2,7 @@
 - 👀 I’m interested in a job opportunity, i love the whole area of ​​technology and i am passionate about development. Whether in games, apps or websites.
 - 🌱 I’m currently learning JavaScript, Node.js, React e ReactNative. Lua, Lua form
 - 💞️ I’m looking to collaborate on https://github.com/rrpgfirecast/firecast
-- 📫 How to reach me https://www.linkedin.com/in/rafael-almeida-penha-75803421a/
+- 📫 How to reach me https://www.linkedin.com/in/rafaelalmeidapenha/
 
 <!---
 RAFILKLDEV/RAFILKLDEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
